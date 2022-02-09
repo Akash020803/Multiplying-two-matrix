@@ -39,4 +39,5 @@ print("Product of two arrays is:", result)
 ![](out.png)
 
 ## RESULT:
+The Excepted output has been generated.
 
